@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+reports/*.png
+reports/*.csv
+reports/*.log
+models/*.pkl
